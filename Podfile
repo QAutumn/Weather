@@ -4,7 +4,10 @@
 target 'Weather' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-
+  pod 'SnapKit'
+  pod 'LookinServer'
+  pod 'Alamofire'
+  pod 'SwiftyJSON'
   # Pods for Weather
 
 end

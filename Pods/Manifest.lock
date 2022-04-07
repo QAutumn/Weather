@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.5.0)
+  - LookinServer (1.0.4)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - LookinServer
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - LookinServer
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  LookinServer: 743c1681771d0a8dcc38825325a080c3186404a5
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 8fb008d9ac98a3531448b9065aa8625c8fe31a14
+
+COCOAPODS: 1.11.2
